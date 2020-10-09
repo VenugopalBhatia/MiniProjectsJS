@@ -1,0 +1,21 @@
+
+#box{
+
+	background-color: red;
+	height: 40px;
+	width: 40px;
+	margin: 5px;
+	position: relative;
+	left:10%;
+	top:10%;
+
+
+}
+
+#container{
+	display: block;
+}
+
+.p{
+	margin-top: 5px;
+}
