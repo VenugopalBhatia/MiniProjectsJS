@@ -1,1 +1,1 @@
-Set of mini projects forfamiliarisation with JS.
+Set of mini projects for familiarisation with JS.
