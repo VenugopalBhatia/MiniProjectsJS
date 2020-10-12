@@ -1,0 +1,9 @@
+#sqObj{
+    height : 50px;
+    width: 50px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 50vh;
+    left: 50vw;
+    /* margin:auto; */
+}
